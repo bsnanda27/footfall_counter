@@ -11,6 +11,7 @@ This project implements a robust footfall counting solution that:
 - Outputs processed video with detailed visual overlays
 - Exports event logs as CSV files
 - Provides a FastAPI server for API-based processing
+- Input video used - https://youtu.be/WvhYuDvH17I
 
 ## Features
 
